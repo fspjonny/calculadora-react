@@ -2,6 +2,7 @@
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
+Projeto em execução no github.io: [https://fspjonny.github.io/calculadora-react/](https://fspjonny.github.io/calculadora-react/)
 <div align="center">
 <img width="455" src="https://i.imgur.com/qD1cK0f.png">
 </div>
