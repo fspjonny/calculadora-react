@@ -1,39 +1,27 @@
-# Introdução ao Create React App
+# Calculadora simples em React
 
-Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi feito durante o aprendizado de React.
 
-Projeto em execução no github.io: [https://fspjonny.github.io/calculadora-react/](https://fspjonny.github.io/calculadora-react/)
+Projeto em execução no github.io: [https://fspjonny.github.io/frontend-calculadora-react/](https://fspjonny.github.io/frontend-calculadora-react/)
 <div align="center">
 <img width="455" src="https://i.imgur.com/qD1cK0f.png">
 </div>
 
-## Scripts disponíveis
+## Este projeto foi feito com:
+* [React 18.2.0](https://pt-br.reactjs.org/)
 
-No diretório do projeto, você pode executar:
+## Clone este repositório
 
-### `npm start`
+`git clone` https://github.com/fspjonny/frontend-calculadora-react.git
+
+## Executando este projeto localmente
+[Tenha o Node.js instalado](https://nodejs.org/en)
+
+* Na raiz da aplicação execute: `npm i` ou `npm install` , para instalar as dependências deste projeto.
+
+* Depois e ainda na raiz da aplicação execute: `npm run dev`
 
 Isso executa o aplicativo no modo de desenvolvimento.\
-O seu navegador padrão vai abrir esta url [http://localhost:3000](http://localhost:3000) para exibição da aplicação.
+O seu navegador padrão vai abrir esta url: [http://localhost:3000](http://localhost:3000) para exibição da aplicação.
 
-A página sempre será automáticamente recarregada quando você fizer alterações e salva-las.\
-Você também pode ver erros de lint no console.
-
-### `npm run build`
-
-Cria o aplicativo para produção na pasta `build`.\
-Ele empacota corretamente o React no modo de produção e otimiza a compilação para obter o melhor desempenho.
-
-A compilação é minificada e os nomes dos arquivos incluem os hashes.\
-Seu aplicativo está pronto para ser implantado!
-
-Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
-
-
-### Implantação
-
-Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` falha ao minificar
-
-Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/ create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+A página sempre será automáticamente recarregada quando você fizer alterações e salva-las.
