@@ -2,7 +2,7 @@
   "name": "react-calculadora",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fspjonny.github.io/calculadora-react",
+  "homepage": "https://fspjonny.github.io/frontend-calculadora-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
